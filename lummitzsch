@@ -1,4 +1,4 @@
-Subnet=10.59.157.1
+Subnet=10.59.157.1/32
 Address=lummitzsch.thw-koeln.de
 
 -----BEGIN RSA PUBLIC KEY-----
